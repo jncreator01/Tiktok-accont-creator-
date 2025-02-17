@@ -7,7 +7,7 @@ Tiktok account creator Mass creation
 
 - follow/ like / comment /      report
 
-- Android/ios/web API           plateform
+- Android/ios/web API           platform
 
 - no selenium request
 
